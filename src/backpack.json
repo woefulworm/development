@@ -1,0 +1,73 @@
+[
+  {
+    "name": "1 TB Harddrive",
+    "description": "Lots of important things on this",
+    "image": "images/1tbHarddrive.jpeg"
+  },
+  {
+    "name": "Chapstik",
+    "description": "Classic|Original Variety",
+    "image": "images/chapstik.jpeg"
+  },
+  {
+    "name": "Keychain",
+    "description": "One of these is to an old house and useless",
+    "image": "images/keys.jpeg"
+  },
+  {
+    "name": "My Laptop",
+    "description": "Writing on this rn",
+    "image": "images/laptop.jpeg"
+  },
+  {
+    "name": "My Lighter",
+    "description": "Featuring a spider and its web",
+    "image": "images/lighter.jpg"
+  },
+  {
+    "name": "3 Multivitamins (loose)",
+    "description": "Keeping myself healthy",
+    "image": "images/multivitaminsLoose.jpeg"
+  },
+  {
+    "name": "A gift",
+    "description": "Sorry, too private for UXFactor",
+    "price": 4.99,
+    "image": "images/pixelatedLOL.jpeg"
+  },
+  {
+    "name": "A Red Pencil",
+    "description": "Wish I had a normal pencil",
+    "image": "images/redPencil.jpeg"
+  },
+  {
+    "name": "Recipt from the Rhode Island Antique Mall",
+    "description": "I pixelated my name for academic integrity reasons",
+    "image": "images/recipt.jpeg"
+  },
+  {
+    "name": "Sandpaper",
+    "description": "80 grit, used to make a bookshelf",
+    "image": "images/sandpaper80Grit.jpeg"
+  },
+  {
+    "name": "A Paper I'm Reading in a Class",
+    "description": "\"Did the Middle Ages Believe in Their Miracles\" by Steven Justice",
+    "image": "images/stevenJusticePaper.jpeg"
+  },
+  {
+    "name": "Swimming Goggles",
+    "description": "Swam laps in the Nelson this morning",
+    "image": "images/swimmingGoggles.jpeg"
+  },
+  {
+    "name": "The Argonauts by Maggie Nelson",
+    "description": "A gift",
+    "image": "images/theArgonauts.jpeg"
+  },
+  {
+    "name": "My Wallet",
+    "description": "Bought this at Marshalls in 4th Grade I think",
+    "image": "images/wallet.jpeg"
+  }
+]
