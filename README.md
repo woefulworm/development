@@ -1,9 +1,10 @@
 # Development
 
 ### Link to Deployed Website
-If you used the stencil code, this is `https://<your GitHub username>.github.io/<name of your repository>`
+https://woefulworm.github.io/development/
 
 ### Goal and Value of the Application
+I wanted to make a fun and whimsical application (almost game) where the user rifles through my background, stealing items.
 
 ### Usability Principles Considered
 
