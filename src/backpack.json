@@ -1,73 +1,132 @@
 [
   {
-    "name": "1 TB Harddrive",
-    "description": "Lots of important things on this",
-    "image": "images/1tbHarddrive.jpeg"
+    "name": "Laptop",
+    "description": "Coding on this right now",
+    "image": "images/laptop.jpeg",
+    "value":1,
+    "article":"a ",
+    "cry":true,
+    "read":true,
+    "price":500.43
   },
   {
-    "name": "Chapstik",
-    "description": "Classic|Original Variety",
-    "image": "images/chapstik.jpeg"
+    "name": "Wallet",
+    "description": "Bought this at Marshalls in 4th Grade I think",
+    "image": "images/wallet.jpeg",
+    "value":2,
+    "article":"a ",
+    "cry":true,
+    "read":false,
+    "price":30.12
   },
   {
     "name": "Keychain",
     "description": "One of these is to an old house and useless",
-    "image": "images/keys.jpeg"
+    "image": "images/keys.jpeg",
+    "value":3,
+    "article":"a ",
+    "cry":true,
+    "read":false,
+    "price":10.48
   },
   {
-    "name": "My Laptop",
-    "description": "Writing on this rn",
-    "image": "images/laptop.jpeg"
+    "name": "1 TB Harddrive",
+    "description": "Lots of important things on this",
+    "image": "images/1tbHarddrive.jpeg",
+    "value":4,
+    "article":"a ",
+    "cry":false,
+    "read":true,
+    "price":100.10
   },
   {
-    "name": "My Lighter",
-    "description": "Featuring a spider and its web",
-    "image": "images/lighter.jpg"
-  },
-  {
-    "name": "3 Multivitamins (loose)",
-    "description": "Keeping myself healthy",
-    "image": "images/multivitaminsLoose.jpeg"
-  },
-  {
-    "name": "A gift",
-    "description": "Sorry, too private for UXFactor",
-    "price": 4.99,
-    "image": "images/pixelatedLOL.jpeg"
-  },
-  {
-    "name": "A Red Pencil",
-    "description": "Wish I had a normal pencil",
-    "image": "images/redPencil.jpeg"
-  },
-  {
-    "name": "Recipt from the Rhode Island Antique Mall",
-    "description": "I pixelated my name for academic integrity reasons",
-    "image": "images/recipt.jpeg"
-  },
-  {
-    "name": "Sandpaper",
-    "description": "80 grit, used to make a bookshelf",
-    "image": "images/sandpaper80Grit.jpeg"
-  },
-  {
-    "name": "A Paper I'm Reading in a Class",
-    "description": "\"Did the Middle Ages Believe in Their Miracles\" by Steven Justice",
-    "image": "images/stevenJusticePaper.jpeg"
+    "name": "The Argonauts by Maggie Nelson",
+    "description": "On loan from a personal library",
+    "image": "images/theArgonauts.jpeg",
+    "value":5,
+    "article":"",
+    "cry":true,
+    "read":true,
+    "price":8.79
   },
   {
     "name": "Swimming Goggles",
     "description": "Swam laps in the Nelson this morning",
-    "image": "images/swimmingGoggles.jpeg"
+    "image": "images/swimmingGoggles.jpeg",
+    "value":6,
+    "article":"a pair of ",
+    "cry":false,
+    "read":false,
+    "price":12.99
   },
   {
-    "name": "The Argonauts by Maggie Nelson",
-    "description": "A gift",
-    "image": "images/theArgonauts.jpeg"
+    "name": "Lighter",
+    "description": "Featuring a spider and its web",
+    "image": "images/lighter.jpg",
+    "value":7,
+    "article":"a ",
+    "cry":false,
+    "read":false,
+    "price":3.99
   },
   {
-    "name": "My Wallet",
-    "description": "Bought this at Marshalls in 4th Grade I think",
-    "image": "images/wallet.jpeg"
+    "name": "Paper I'm Reading in a Class",
+    "description": "\"Did the Middle Ages Believe in Their Miracles\" by Steven Justice",
+    "image": "images/stevenJusticePaper.jpeg",
+    "value":8,
+    "article":"a ",
+    "cry":false,
+    "read":true,
+    "price":0.1
+  },
+  {
+    "name": "Chapstick",
+    "description": "Classic | Original Variety",
+    "image": "images/chapstik.jpeg",
+    "value":9,
+    "article":"a stick of ",
+    "cry":false,
+    "read":false,
+    "price":4.99
+  },
+  {
+    "name": "Red Pencil",
+    "description": "Wish I had a normal pencil",
+    "image": "images/redPencil.jpeg",
+    "value":10,
+    "article":"a ",
+    "cry":false,
+    "read":false,
+    "price":0.99
+  },
+  {
+    "name": "3 Multivitamins (loose)",
+    "description": "Keeping myself healthy",
+    "image": "images/multivitaminsLoose.jpeg",
+    "value":11,
+    "article":"",
+    "cry":false,
+    "read":false,
+    "price":0.23
+  },
+  {
+    "name": "Rhode Island Antique Mall Receipt",
+    "description": "I pixelated my name for academic integrity reasons",
+    "image": "images/recipt.jpeg",
+    "value":12,
+    "article":"my ",
+    "cry":false,
+    "read":true,
+    "price":0.01
+  },
+  {
+    "name": "Sandpaper",
+    "description": "80 grit, used to make a bookshelf",
+    "image": "images/sandpaper80Grit.jpeg",
+    "value":13,
+    "article":"a scrap of ",
+    "cry":false,
+    "read":false,
+    "price":0.05
   }
 ]
