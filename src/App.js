@@ -223,7 +223,7 @@ function App() {
             {itemArray.map((item, index) => ( // TODO: map bakeryData to BakeryItem components
                 <div className="item">
                   <h1>{itemArray[index].name}</h1>
-                  <img src={item.image}/>
+                  <img src={item.image} alt={"picture of " + item.name}/>
                   <p>{item.description}</p>
                   <button type="button" onClick={() => deleteItem(index)}>Steal from my backpack</button>
                 </div>
