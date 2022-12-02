@@ -20,6 +20,8 @@ I tried to make everything as simple as possible. I decided to show all the item
 ### How Data is Passed Down Through Components
 The data on my website is from a JSON file with all the infromation on the items in it. From there, it is unpacked and stored in an array with a custom "generalItem" constructor that could hold all the data of the JSON line items. From there, I had three useState arrays that had all the currently visible elements, the filtered out ones, and the stolen ones. 
 
+I also bolded the total value of items stolen to set it off from the rest of the sentance, as that felt like the most important piece of information for a theif and should be easy to see.
+
 ### How the User Triggers State Changes
 
 I have it so that each array is a useState that can trigger changes on the page to refresh. I also have an "update" useState integer that I increment on changes that wouldn't be refelcted immedelty so that the website can change without changing other useState variables.
