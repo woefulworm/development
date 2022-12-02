@@ -239,7 +239,7 @@ function App() {
               <option value="2">alphabetical</option>
             </select>
 
-            <div className='stolen' hidden={hiddenButton}>{stolenStr.slice(0, 15) + stolenItemsVal.toFixed(2).toString() + stolenStr.slice(15)}</div>
+            <div className='stolen' hidden={hiddenButton}>{stolenStr.slice(0, 14)} <b>${stolenItemsVal.toFixed(2).toString()}</b> {stolenStr.slice(15)}</div>
             <button type="button" hidden={hiddenButton} onClick={() => restoreItems()}>return them to me... please</button><br></br><br></br>
 
             <input type="checkbox" id="read" name="read" value="read" onChange={() =>
