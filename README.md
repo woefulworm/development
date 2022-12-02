@@ -12,6 +12,8 @@ I also added two sorting catagories. I thought the value critera would be helpfu
 
 I also made it so that when hovering over an component it was clear that that component was highlighted and selectable. Also the buttons looked like traditional buttons and said what they did on them to make it as simple as possible.
 
+For the visibility of system status, I made sure that the user could always see 1.) the value of and 2.) the specific items stolen at any given point. For accesibility, I ensured that the contrast was correct and anything could be read by a screenreader, including alt text for images.
+
 ### Organization of Components
 I tried to make everything as simple as possible. I decided to show all the items in a grid at once, since that felt most similar to how exploring a backpack would be, where you are able to see the entire contents of it at once. Also, I had a two column system so one could keep track of all the items they had stolen while simultaneously looking at the contents of my backpack. The repeating items in the grid made it clear that they all behaved the same way and were a part of the same component family.
 
