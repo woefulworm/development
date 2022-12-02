@@ -1,6 +1,6 @@
-#Development
+# Development
 
-###Link to Website
+### Link to Website
 https://woefulworm.github.io/development/
 
 ### Goal and Value of the Application
